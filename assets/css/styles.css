@@ -1,0 +1,42 @@
+main {
+  padding: 5% 20%;
+}
+.app {
+  padding: 5%;
+}
+.title {
+  background-color: #2f2f2f;
+  color: #e65765;
+  text-align: center;
+  margin: 0;
+}
+.body {
+  background-color: #000;
+  color: #e65765;
+  padding: 8%;
+  text-align: center;
+}
+.form-control {
+  background-color: #000;
+  border: 2px solid #e65765;
+  border-left: none;
+  border-right: none;
+  color: gray;
+}
+#inputSpan1, #inputSpan2, #inputSpan3 {
+  background-color: #000;
+  border: 2px solid #e65765;
+  color: #e65765;
+  border-right: none;
+}
+#iconSpan1, #iconSpan2, #iconSpan3 {
+  background-color: #000;
+  border: 2px solid #e65765;
+  color: #e65765;
+}
+::placeholder {
+  text-align: center;
+}
+i {
+  color: #e65765;
+}
